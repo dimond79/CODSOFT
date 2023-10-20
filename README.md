@@ -3,7 +3,7 @@
 # Internship: Machine Learning
 # Overview
 This is a repositry of a task completed for virtual internship assigned by Codsoft. According to Codsoft, I should solve three task which I will be uploading in
-this repositry.
+this repositry. All the data link is given in assignment. 
 # Library Used:
 The following important libraries were used for this project:<br>
 numpy<br>
